@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Astha</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_admin_login">AdminLogin</string>
+    <string name="title_activity_ccm_login">CcmLogin</string>
+    <string name="title_activity_user_home">UserHome</string>
+    <string name="title_activity_create_admin">CreateAdmin</string>
+    <string name="title_activity_admin_home">AdminHome</string>
+    <string name="title_activity_admin__cc__m">Admin_CC_M</string>
+    <string name="title_activity_add_ccm">AddCCM</string>
+    <string name="title_activity_add_cc">AddCC</string>
+
+</resources>
